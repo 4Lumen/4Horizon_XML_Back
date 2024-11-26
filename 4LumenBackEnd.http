@@ -1,0 +1,6 @@
+@_4LumenBackEnd_HostAddress = http://localhost:5201
+
+GET {{_4LumenBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
