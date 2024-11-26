@@ -46,8 +46,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "..\\4Horizon\\Program.cs",
               "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\Program.cs",
               "RelativeToolTip": "..\\4Horizon\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T22:44:10.912Z",
               "EditorCaption": ""
@@ -71,7 +75,8 @@
               "RelativeToolTip": "..\\4Horizon\\.github\\PULL_REQUEST_TEMPLATE.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-26T22:44:10.827Z"
+              "WhenOpened": "2024-11-26T22:44:10.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,7 +88,8 @@
               "RelativeToolTip": "..\\4Horizon\\.github\\ISSUE_TEMPLATE.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-11-26T22:44:10.653Z"
+              "WhenOpened": "2024-11-26T22:44:10.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -95,7 +101,8 @@
               "RelativeToolTip": "..\\4Horizon\\node_modules\\.package-lock.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T22:44:10.521Z"
+              "WhenOpened": "2024-11-26T22:44:10.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,7 +114,8 @@
               "RelativeToolTip": "..\\4Horizon\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T22:44:10.417Z"
+              "WhenOpened": "2024-11-26T22:44:10.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +127,8 @@
               "RelativeToolTip": "..\\4Horizon\\Models\\XmlDetailsContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:10.329Z"
+              "WhenOpened": "2024-11-26T22:44:10.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,7 +140,8 @@
               "RelativeToolTip": "..\\4Horizon\\Models\\XMLDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:10.24Z"
+              "WhenOpened": "2024-11-26T22:44:10.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -143,7 +153,8 @@
               "RelativeToolTip": "..\\4Horizon\\Migrations\\XmlDetailsContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:10.146Z"
+              "WhenOpened": "2024-11-26T22:44:10.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -155,7 +166,8 @@
               "RelativeToolTip": "..\\4Horizon\\Migrations\\20241122034406_First Migration.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:10.04Z"
+              "WhenOpened": "2024-11-26T22:44:10.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -167,7 +179,8 @@
               "RelativeToolTip": "..\\4Horizon\\Migrations\\20241122034406_First Migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:09.935Z"
+              "WhenOpened": "2024-11-26T22:44:09.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,7 +192,8 @@
               "RelativeToolTip": "..\\4Horizon\\Controllers\\XMLDetailsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:44:09.819Z"
+              "WhenOpened": "2024-11-26T22:44:09.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +205,8 @@
               "RelativeToolTip": "..\\4Horizon\\.vs\\VSWorkspaceState.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-26T22:44:09.346Z"
+              "WhenOpened": "2024-11-26T22:44:09.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
