@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4LumenBackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4bbf77fb7192dca0cae0930de0f4b87908a564d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aedd754845df9a592e609840551e825cd6ed4a95")]
 [assembly: System.Reflection.AssemblyProductAttribute("4LumenBackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4LumenBackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

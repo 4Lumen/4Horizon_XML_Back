@@ -5,9 +5,14 @@ services:
     github:
       branch: main
       deploy_on_push: true
-    build_command: dotnet publish -c Release -o out
+    build_command: dotnet restore && dotnet publish ./4LumenBackEnd.csproj -c Release -o out
     run_command: dotnet out/4LumenBackEnd.dll
     http_port: 8080
     environment_slug: dotnet
     instance_size_slug: basic-xxs
     instance_count: 1
+    envs:
+      - key: DOTNET_NOLOGO
+        value: "true"
+      - key: DOTNET_SKIP_FIRST_TIME_EXPERIENCE
+        value: "true"

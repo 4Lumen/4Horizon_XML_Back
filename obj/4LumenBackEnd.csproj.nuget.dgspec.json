@@ -69,6 +69,10 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
+            "NuGet.Packaging": {
+              "target": "Package",
+              "version": "[6.12.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[7.0.0, )"

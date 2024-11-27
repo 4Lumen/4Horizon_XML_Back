@@ -1876,29 +1876,37 @@
           }
         }
       },
-      "NuGet.Common/6.11.0": {
+      "NuGet.Common/6.12.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Frameworks": "6.11.0"
+          "NuGet.Frameworks": "6.12.1"
         },
         "compile": {
-          "lib/netstandard2.0/NuGet.Common.dll": {}
+          "lib/netstandard2.0/NuGet.Common.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Common.dll": {}
+          "lib/netstandard2.0/NuGet.Common.dll": {
+            "related": ".xml"
+          }
         }
       },
-      "NuGet.Configuration/6.11.0": {
+      "NuGet.Configuration/6.12.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Common": "6.11.0",
+          "NuGet.Common": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/NuGet.Configuration.dll": {}
+          "lib/netstandard2.0/NuGet.Configuration.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Configuration.dll": {}
+          "lib/netstandard2.0/NuGet.Configuration.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.DependencyResolver.Core/6.11.0": {
@@ -1915,13 +1923,17 @@
           "lib/net5.0/NuGet.DependencyResolver.Core.dll": {}
         }
       },
-      "NuGet.Frameworks/6.11.0": {
+      "NuGet.Frameworks/6.12.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.LibraryModel/6.11.0": {
@@ -1937,19 +1949,24 @@
           "lib/netstandard2.0/NuGet.LibraryModel.dll": {}
         }
       },
-      "NuGet.Packaging/6.11.0": {
+      "NuGet.Packaging/6.12.1": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Configuration": "6.11.0",
-          "NuGet.Versioning": "6.11.0",
+          "NuGet.Configuration": "6.12.1",
+          "NuGet.Versioning": "6.12.1",
+          "System.Formats.Asn1": "8.0.1",
           "System.Security.Cryptography.Pkcs": "6.0.4"
         },
         "compile": {
-          "lib/net5.0/NuGet.Packaging.dll": {}
+          "lib/net5.0/NuGet.Packaging.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net5.0/NuGet.Packaging.dll": {}
+          "lib/net5.0/NuGet.Packaging.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.ProjectModel/6.11.0": {
@@ -1976,13 +1993,17 @@
           "lib/net5.0/NuGet.Protocol.dll": {}
         }
       },
-      "NuGet.Versioning/6.11.0": {
+      "NuGet.Versioning/6.12.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/NuGet.Versioning.dll": {}
+          "lib/netstandard2.0/NuGet.Versioning.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Versioning.dll": {}
+          "lib/netstandard2.0/NuGet.Versioning.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/7.0.0": {
@@ -4323,29 +4344,37 @@
           }
         }
       },
-      "NuGet.Common/6.11.0": {
+      "NuGet.Common/6.12.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Frameworks": "6.11.0"
+          "NuGet.Frameworks": "6.12.1"
         },
         "compile": {
-          "lib/netstandard2.0/NuGet.Common.dll": {}
+          "lib/netstandard2.0/NuGet.Common.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Common.dll": {}
+          "lib/netstandard2.0/NuGet.Common.dll": {
+            "related": ".xml"
+          }
         }
       },
-      "NuGet.Configuration/6.11.0": {
+      "NuGet.Configuration/6.12.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Common": "6.11.0",
+          "NuGet.Common": "6.12.1",
           "System.Security.Cryptography.ProtectedData": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/NuGet.Configuration.dll": {}
+          "lib/netstandard2.0/NuGet.Configuration.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Configuration.dll": {}
+          "lib/netstandard2.0/NuGet.Configuration.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.DependencyResolver.Core/6.11.0": {
@@ -4362,13 +4391,17 @@
           "lib/net5.0/NuGet.DependencyResolver.Core.dll": {}
         }
       },
-      "NuGet.Frameworks/6.11.0": {
+      "NuGet.Frameworks/6.12.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Frameworks.dll": {}
+          "lib/netstandard2.0/NuGet.Frameworks.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.LibraryModel/6.11.0": {
@@ -4384,19 +4417,24 @@
           "lib/netstandard2.0/NuGet.LibraryModel.dll": {}
         }
       },
-      "NuGet.Packaging/6.11.0": {
+      "NuGet.Packaging/6.12.1": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "NuGet.Configuration": "6.11.0",
-          "NuGet.Versioning": "6.11.0",
+          "NuGet.Configuration": "6.12.1",
+          "NuGet.Versioning": "6.12.1",
+          "System.Formats.Asn1": "8.0.1",
           "System.Security.Cryptography.Pkcs": "6.0.4"
         },
         "compile": {
-          "lib/net5.0/NuGet.Packaging.dll": {}
+          "lib/net5.0/NuGet.Packaging.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net5.0/NuGet.Packaging.dll": {}
+          "lib/net5.0/NuGet.Packaging.dll": {
+            "related": ".xml"
+          }
         }
       },
       "NuGet.ProjectModel/6.11.0": {
@@ -4423,13 +4461,17 @@
           "lib/net5.0/NuGet.Protocol.dll": {}
         }
       },
-      "NuGet.Versioning/6.11.0": {
+      "NuGet.Versioning/6.12.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/NuGet.Versioning.dll": {}
+          "lib/netstandard2.0/NuGet.Versioning.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/NuGet.Versioning.dll": {}
+          "lib/netstandard2.0/NuGet.Versioning.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Swashbuckle.AspNetCore/7.0.0": {
@@ -8210,33 +8252,37 @@
         "postgresql.png"
       ]
     },
-    "NuGet.Common/6.11.0": {
-      "sha512": "T3bCiKUSx8wdYpcqr6Dbx93zAqFp689ee/oa1tH22XI/xl7EUzQ7No/WlE1FUqvEX1+Mqar3wRNAn2O/yxo94g==",
+    "NuGet.Common/6.12.1": {
+      "sha512": "nk8nTdhQl4x2VaAQUvefI7DDYAuBDlE+OZZRffm50Qx5dUAEq8wkc5JIqrN2lTEohObHPI/SXyG2UFdMQkrdyg==",
       "type": "package",
-      "path": "nuget.common/6.11.0",
+      "path": "nuget.common/6.12.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
         "lib/net472/NuGet.Common.dll",
+        "lib/net472/NuGet.Common.xml",
         "lib/netstandard2.0/NuGet.Common.dll",
-        "nuget.common.6.11.0.nupkg.sha512",
+        "lib/netstandard2.0/NuGet.Common.xml",
+        "nuget.common.6.12.1.nupkg.sha512",
         "nuget.common.nuspec"
       ]
     },
-    "NuGet.Configuration/6.11.0": {
-      "sha512": "73QprQqmumFrv3Ooi4YWpRYeBj8jZy9gNdOaOCp4pPInpt41SJJAz/aP4je+StwIJvi5HsgPPecLKekDIQEwKg==",
+    "NuGet.Configuration/6.12.1": {
+      "sha512": "IRwlY1379ZgJ0oEJvjD+lDuOhJ5S1fsU5n/bEC5/i0+N9bo2WIMDAdaQ/qIdyK/gMJ/YWS+++GSX6rN7luqEvg==",
       "type": "package",
-      "path": "nuget.configuration/6.11.0",
+      "path": "nuget.configuration/6.12.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
         "lib/net472/NuGet.Configuration.dll",
+        "lib/net472/NuGet.Configuration.xml",
         "lib/netstandard2.0/NuGet.Configuration.dll",
-        "nuget.configuration.6.11.0.nupkg.sha512",
+        "lib/netstandard2.0/NuGet.Configuration.xml",
+        "nuget.configuration.6.12.1.nupkg.sha512",
         "nuget.configuration.nuspec"
       ]
     },
@@ -8256,18 +8302,20 @@
         "nuget.dependencyresolver.core.nuspec"
       ]
     },
-    "NuGet.Frameworks/6.11.0": {
-      "sha512": "Ew/mrfmLF5phsprysHbph2+tdZ10HMHAURavsr/Kx1WhybDG4vmGuoNLbbZMZOqnPRdpyCTc42OKWLoedxpYtA==",
+    "NuGet.Frameworks/6.12.1": {
+      "sha512": "kPaRD5RJC0ByUg+yGX6bDz5XHMI7OYmQwP8kbtef+vZ+csj/VDb5Bwas4ChxwhoAbI8lEvwP5/3aViQPpgNBow==",
       "type": "package",
-      "path": "nuget.frameworks/6.11.0",
+      "path": "nuget.frameworks/6.12.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
         "lib/net472/NuGet.Frameworks.dll",
+        "lib/net472/NuGet.Frameworks.xml",
         "lib/netstandard2.0/NuGet.Frameworks.dll",
-        "nuget.frameworks.6.11.0.nupkg.sha512",
+        "lib/netstandard2.0/NuGet.Frameworks.xml",
+        "nuget.frameworks.6.12.1.nupkg.sha512",
         "nuget.frameworks.nuspec"
       ]
     },
@@ -8286,19 +8334,22 @@
         "nuget.librarymodel.nuspec"
       ]
     },
-    "NuGet.Packaging/6.11.0": {
-      "sha512": "VmUv2LedVuPY1tfNybORO2I9IuqOzeV7I5JBD+PwNvJq2bAqovi4FCw2cYI0g+kjOJXBN2lAJfrfnqtUOlVJdQ==",
+    "NuGet.Packaging/6.12.1": {
+      "sha512": "6s5NO3VNX6fIx6GwuWZtIsal9W1xkelYd3Vg2KUAg1zGqnKC3wB5IZlombvVGVGcwyl/A+iDvpUwSvgeDoB3wA==",
       "type": "package",
-      "path": "nuget.packaging/6.11.0",
+      "path": "nuget.packaging/6.12.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
         "lib/net472/NuGet.Packaging.dll",
+        "lib/net472/NuGet.Packaging.xml",
         "lib/net5.0/NuGet.Packaging.dll",
+        "lib/net5.0/NuGet.Packaging.xml",
         "lib/netstandard2.0/NuGet.Packaging.dll",
-        "nuget.packaging.6.11.0.nupkg.sha512",
+        "lib/netstandard2.0/NuGet.Packaging.xml",
+        "nuget.packaging.6.12.1.nupkg.sha512",
         "nuget.packaging.nuspec"
       ]
     },
@@ -8334,18 +8385,20 @@
         "nuget.protocol.nuspec"
       ]
     },
-    "NuGet.Versioning/6.11.0": {
-      "sha512": "v/GGlIj2dd7svplFmASWEueu62veKW0MrMtBaZ7QG8aJTSGv2yE+pgUGhXRcQ4nxNOEq/wLBrz1vkth/1SND7A==",
+    "NuGet.Versioning/6.12.1": {
+      "sha512": "fJ6rFYANDnohFsdpaY79FvrJxI6murmoOxXz6nZlf819F48+IBKMnAIg3oIBRtZq5y498ObMtKnro5IitvizUg==",
       "type": "package",
-      "path": "nuget.versioning/6.11.0",
+      "path": "nuget.versioning/6.12.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
         "lib/net472/NuGet.Versioning.dll",
+        "lib/net472/NuGet.Versioning.xml",
         "lib/netstandard2.0/NuGet.Versioning.dll",
-        "nuget.versioning.6.11.0.nupkg.sha512",
+        "lib/netstandard2.0/NuGet.Versioning.xml",
+        "nuget.versioning.6.12.1.nupkg.sha512",
         "nuget.versioning.nuspec"
       ]
     },
@@ -9138,6 +9191,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.1",
+      "NuGet.Packaging >= 6.12.1",
       "Swashbuckle.AspNetCore >= 7.0.0"
     ]
   },
@@ -9209,6 +9263,10 @@
           "Npgsql.EntityFrameworkCore.PostgreSQL": {
             "target": "Package",
             "version": "[9.0.1, )"
+          },
+          "NuGet.Packaging": {
+            "target": "Package",
+            "version": "[6.12.1, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
