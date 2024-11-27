@@ -34,11 +34,11 @@ if (app.Environment.IsDevelopment())
 // app.UseHttpsRedirection();
 
 // Configure CORS to allow requests from the appropriate origins
-app.UseCors(options =>
-    options.AllowAnyOrigin() // Adjust or remove based on your needs
-           .AllowAnyHeader()
-           .AllowAnyMethod()
-           .AllowCredentials());
+//app.UseCors(options =>
+//    options.AllowAnyOrigin() 
+//           .AllowAnyHeader()
+//           .AllowAnyMethod()
+//           .AllowCredentials());
 
 app.UseAuthorization();
 

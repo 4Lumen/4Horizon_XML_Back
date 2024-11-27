@@ -487,3 +487,9 @@ C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Debug\net9.0\refint\4LumenBackE
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Debug\net9.0\4LumenBackEnd.pdb
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Debug\net9.0\4LumenBackEnd.genruntimeconfig.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Debug\net9.0\ref\4LumenBackEnd.dll
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\web.config
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\4LumenBackEnd.deps.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\4LumenBackEnd.runtimeconfig.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\4LumenBackEnd.staticwebassets.endpoints.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\appsettings.Development.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Debug\net9.0\out\appsettings.json
