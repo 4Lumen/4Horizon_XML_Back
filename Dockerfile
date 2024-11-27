@@ -26,7 +26,7 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Expose the port your app runs on (default for ASP.NET Core is 80)
-EXPOSE 80
+EXPOSE 8080
 
 # Specify the entry point for the application
-ENTRYPOINT ["dotnet", "4LumenBackEnd.exe"]
+ENTRYPOINT ["dotnet", "4LumenBackEnd.dll"]
