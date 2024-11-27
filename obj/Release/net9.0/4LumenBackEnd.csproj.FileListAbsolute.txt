@@ -235,10 +235,10 @@ C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets\
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets\msbuild.buildMultiTargeting.4LumenBackEnd.props
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets\msbuild.buildTransitive.4LumenBackEnd.props
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets.pack.json
-C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBa.70776222.Up2Date
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.dll
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\refint\4LumenBackEnd.dll
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.pdb
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.genruntimeconfig.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\ref\4LumenBackEnd.dll
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.MvcApplicationPartsAssemblyInfo.cs
