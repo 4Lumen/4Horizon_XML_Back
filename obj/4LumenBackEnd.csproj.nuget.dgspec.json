@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\4LumenBackEnd.csproj": {}
+    "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\4LumenBackEnd.csproj": {
+    "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\4LumenBackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
         "projectName": "4LumenBackEnd",
-        "projectPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\4LumenBackEnd.csproj",
+        "projectPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
         "packagesPath": "C:\\Users\\MunaroPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\4Horizon\\obj\\",
+        "outputPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,6 +85,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[9.0.0, 9.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[9.0.0, 9.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[9.0.0, 9.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -94,6 +108,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
