@@ -223,7 +223,6 @@ C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.Ge
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.AssemblyInfoInputs.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.AssemblyInfo.cs
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.csproj.CoreCompileInputs.cache
-C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.sourcelink.json
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\scopedcss\bundle\4LumenBackEnd.styles.css

@@ -16,3 +16,5 @@ services:
         value: "true"
       - key: DOTNET_SKIP_FIRST_TIME_EXPERIENCE
         value: "true"
+      - key: ASPNETCORE_ENVIRONMENT
+        value: "Development"
