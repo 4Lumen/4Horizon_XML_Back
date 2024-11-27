@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\spec.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:spec.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,11 +72,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "spec.yaml",
-              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\spec.yaml",
-              "RelativeDocumentMoniker": "spec.yaml",
-              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\spec.yaml",
-              "RelativeToolTip": "spec.yaml",
+              "Title": "project.yaml",
+              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\project.yaml",
+              "RelativeDocumentMoniker": "project.yaml",
+              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\project.yaml",
+              "RelativeToolTip": "project.yaml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-11-27T16:47:00.756Z",
