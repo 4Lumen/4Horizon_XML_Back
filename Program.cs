@@ -35,7 +35,7 @@ if (app.Environment.IsDevelopment())
 
 // Configure CORS to allow requests from the appropriate origins
 app.UseCors(options =>
-    options.WithOrigins("http://localhost:59688") // Adjust or remove based on your needs
+    options.AllowAnyOrigin() // Adjust or remove based on your needs
            .AllowAnyHeader()
            .AllowAnyMethod()
            .AllowCredentials());
