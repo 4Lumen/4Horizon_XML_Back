@@ -5,11 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>_4LumenBackEnd</RootNamespace>
-    <OutputType>Exe</OutputType>
-    <RuntimeIdentifiers>linux-x64</RuntimeIdentifiers>
-    <EnableSdkContainerDebugging>True</EnableSdkContainerDebugging>
-    <ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:9.0</ContainerBaseImage>
-    <UserSecretsId>9f9c6e10-981f-4c04-950f-81b19bf9679e</UserSecretsId>    
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,16 +15,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.1" />
-    <PackageReference Include="NuGet.Packaging" Version="6.12.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ContainerPort Include="8081" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
 
 </Project>

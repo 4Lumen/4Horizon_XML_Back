@@ -14,29 +14,22 @@ builder.Services.AddSwaggerGen(); // Swagger generator
 builder.Services.AddDbContext<XmlDetailsContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DevConnection")));
 
-// Configure Kestrel to listen on the correct port (DigitalOcean's default is 8080)
-builder.WebHost.ConfigureKestrel(options =>
-{
-    options.ListenAnyIP(8080); // Listen on port 8080 for HTTP traffic
-});
-
-// Build the app
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger(); // Enable Swagger middleware
-    app.UseSwaggerUI(); // Enable Swagger UI
-}
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("http://localhost:5000/swagger/v1/swagger.json", "My API V1");
+});
 
- app.UseHttpsRedirection();
 
-app.UseCors(options =>
-    options.AllowAnyOrigin() 
-           .AllowAnyHeader()
-           .AllowAnyMethod()
-           );
+
+
+app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

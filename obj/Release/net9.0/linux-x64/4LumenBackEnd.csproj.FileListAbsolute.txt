@@ -243,3 +243,9 @@ C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\linux-x64\refint
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\linux-x64\4LumenBackEnd.pdb
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\linux-x64\4LumenBackEnd.genruntimeconfig.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\linux-x64\ref\4LumenBackEnd.dll
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\web.config
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\4LumenBackEnd.deps.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\4LumenBackEnd.runtimeconfig.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\4LumenBackEnd.staticwebassets.endpoints.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\appsettings.Development.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\linux-x64\out\appsettings.json
