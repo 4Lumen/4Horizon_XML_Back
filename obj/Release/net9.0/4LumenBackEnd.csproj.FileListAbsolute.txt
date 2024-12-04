@@ -242,3 +242,10 @@ C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.pd
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.genruntimeconfig.cache
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\ref\4LumenBackEnd.dll
 C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\4LumenBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\web.config
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\4LumenBackEnd.deps.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\4LumenBackEnd.runtimeconfig.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\4LumenBackEnd.staticwebassets.endpoints.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\appsettings.Development.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\bin\Release\net9.0\out\appsettings.json
+C:\Users\MunaroPC\Desktop\Lumen\LumebBackEnd\obj\Release\net9.0\staticwebassets.upToDateCheck.txt

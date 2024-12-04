@@ -30,15 +30,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(); // Enable Swagger UI
 }
 
-// Remove HTTPS redirection for DigitalOcean since it handles HTTPS termination
-// app.UseHttpsRedirection();
+ app.UseHttpsRedirection();
 
-// Configure CORS to allow requests from the appropriate origins
-//app.UseCors(options =>
-//    options.AllowAnyOrigin() 
-//           .AllowAnyHeader()
-//           .AllowAnyMethod()
-//           .AllowCredentials());
+app.UseCors(options =>
+    options.AllowAnyOrigin() 
+           .AllowAnyHeader()
+           .AllowAnyMethod()
+           );
 
 app.UseAuthorization();
 
