@@ -3,7 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\",
   "Documents": [
     {
-<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\4lumenbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:4lumenbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -14,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\4lumenbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:4lumenbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:project.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-=======
-      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\spec.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:spec.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
->>>>>>> parent of e86f694 (Teste 4)
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{596038C5-1FFC-45D3-9AFE-9CB7064A5B20}|4LumenBackEnd.csproj|c:\\users\\munaropc\\desktop\\lumen\\lumebbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -51,45 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "gitignore.gitignore",
-              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\gitignore.gitignore",
-              "RelativeDocumentMoniker": "gitignore.gitignore",
-              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\gitignore.gitignore",
-              "RelativeToolTip": "gitignore.gitignore",
-              "ViewState": "AgIAADEAAAAAAAAAAAAmwDoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-27T16:53:11.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-=======
               "DocumentIndex": 0,
-              "Title": "spec.yaml",
-              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\spec.yaml",
-              "RelativeDocumentMoniker": "spec.yaml",
-              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\spec.yaml",
-              "RelativeToolTip": "spec.yaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-27T16:47:00.756Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T19:02:27.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
->>>>>>> parent of e86f694 (Teste 4)
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -97,16 +75,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T00:20:49.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-27T00:20:49.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "project.yaml",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\project.yaml",
               "RelativeDocumentMoniker": "project.yaml",
@@ -119,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -127,12 +100,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T00:20:31.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T00:20:31.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -140,12 +112,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T00:19:49.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T00:19:49.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "4LumenBackEnd.http",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.http",
               "RelativeDocumentMoniker": "4LumenBackEnd.http",
@@ -153,46 +124,58 @@
               "RelativeToolTip": "4LumenBackEnd.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-26T23:48:04.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:48:04.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "4LumenBackEnd.csproj",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
               "RelativeDocumentMoniker": "4LumenBackEnd.csproj",
               "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
               "RelativeToolTip": "4LumenBackEnd.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T23:34:06.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:34:06.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:34:13.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:34:13.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "gitignore.gitignore",
+              "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\gitignore.gitignore",
+              "RelativeDocumentMoniker": "gitignore.gitignore",
+              "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\gitignore.gitignore",
+              "RelativeToolTip": "gitignore.gitignore",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T16:53:11.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "4LumenBackEnd",
               "DocumentMoniker": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
               "RelativeDocumentMoniker": "4LumenBackEnd.csproj",
               "ToolTip": "C:\\Users\\MunaroPC\\Desktop\\Lumen\\LumebBackEnd\\4LumenBackEnd.csproj",
               "RelativeToolTip": "4LumenBackEnd.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T23:09:39.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:09:39.902Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
